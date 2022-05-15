@@ -1,6 +1,4 @@
-# Implementação de fila e pilha utilizando uma lista duplamente ligada
-
-## 
+## Implementação de fila e pilha utilizando uma lista duplamente ligada
 
 Desenvolva uma classe chamada Dequeue para representar o tipo abstrato de dados deque, ou seja, onde os elementos podem ser inseridos e/ou removidos em ambas as extremidades da lista. Os elementos devem ser armazenados numa lista duplamente encadeada genérica. A classe deve possuir um construtor que receba como parâmetro a quantidade máxima de elementos a serem armazenados na lista duplamente encadeada. Estenda a classe Dequeue para implementar as classes Stack e Queue, para representar os tipos abstratos de dados pilha e fila, respectivamente.
 
@@ -28,7 +26,7 @@ Desenvolva uma classe chamada Dequeue para representar o tipo abstrato de dados 
 
 &emsp; &emsp; e) retornar se há ou não elementos inseridos na pilha.
 
-## Como rodar o projeto 
+### Como rodar o projeto 
 
 Para rodar o projeto é necessário que a máquina tenha o JAVA 11 instalado.
 
