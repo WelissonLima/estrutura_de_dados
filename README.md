@@ -30,7 +30,7 @@ Desenvolva uma classe chamada Dequeue para representar o tipo abstrato de dados 
 
 Para rodar o projeto é necessário que a máquina tenha o JAVA 11 instalado.
 
-* Utilizando uma IDE
+* **Utilizando uma IDE**
 
 &emsp; &emsp; Passo 1) Clonar o projeto
 
@@ -45,11 +45,11 @@ Para rodar o projeto é necessário que a máquina tenha o JAVA 11 instalado.
 </p>
 
 
-* Utilizando o terminal/cmd
+* **Utilizando o terminal/cmd**
 
-&emsp; &emsp; Passo 1) Baixar o executável do projeto : [dequeue.jar](https://github.com/WelissonLima/estrutura_de_dados/releases/download/jar/dequeue.jar) 
+&emsp; &emsp; Passo 1) Baixar o executável do projeto [dequeue.jar](https://github.com/WelissonLima/estrutura_de_dados/releases/download/jar/dequeue.jar) 
 
-&emsp; &emsp; Passo 2) Na pasta que o executável foi baixado executar o comando: `java -jar dequeue.jar`
+&emsp; &emsp; Passo 2) Na pasta que o executável foi baixado, executar o comando `java -jar dequeue.jar`
 
 <p align="center">
   <img width="70%" height="70%" src="https://user-images.githubusercontent.com/61437813/168494773-fdd97bd2-c2f3-4511-a1aa-f718ed51c8c8.png">
